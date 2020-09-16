@@ -1,5 +1,5 @@
 # Introduction to html
-This repository is for catalyst cohort 6 training for introduction to hmtl
+This repository is for catalyst cohort 6 training for introduction to hmtl by Rino
 
 
 ## Online Git Providers
